@@ -1,6 +1,6 @@
 # MotorBoat Java
 
-## Consider a class MotorBoat that represents motorboats. A motorboat has attributes for
+## Consider a class MotorBoat that represents motorboats. A motorboat has attributes for:
 
 • The capacity of the fuel tank
 
@@ -14,7 +14,7 @@
 
 • The distance traveled
 
-### The class has methods to
+### The class has methods to:
 
 • Change the speed of the boat
 
