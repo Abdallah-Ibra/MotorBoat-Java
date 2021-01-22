@@ -9,7 +9,7 @@
 • The efficiency of the boat’s motor
 • The distance traveled
 
-## The class has methods to
+### The class has methods to
 
 • Change the speed of the boat
 • Operate the boat for an amount of time at the current speed
